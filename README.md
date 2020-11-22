@@ -1,2 +1,4 @@
-# vinland-technology.github.io
-Website for Vinland Technology at GitHub
+# [vinland-technology.github.io](blog.vinland.technology)
+Website for Vinland Technology at GitHub, currently used as a blog.
+
+
